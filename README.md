@@ -2,6 +2,9 @@
 
 Welcome to The Wild Oasis repository! Your destination for everything you need for the perfect getaway! 🏝️
 
+  ![Travel List Screenshot](./public/the-wild-oasis.png )
+
+
 ## Key Features 🌟
 
 - **Accommodation Booking**: Quick and easy booking of accommodations in the wilderness.
